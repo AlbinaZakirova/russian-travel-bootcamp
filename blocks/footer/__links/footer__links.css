@@ -1,0 +1,12 @@
+.footer__links {
+  background-color: #2A2C2F;;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  color: #fff;
+  text-decoration: none;
+  position: relative;
+} 
+  
