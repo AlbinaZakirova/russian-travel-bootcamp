@@ -10,5 +10,5 @@
 * Функции minmax() и fit-content()
 * пути к файлам и организация файлов по БЭМ
 * GIT
-[https://github.com/AlbinaZakirova/russian-travel-bootcamp]
+[https://albinazakirova.github.io/russian-travel-bootcamp/]
 
