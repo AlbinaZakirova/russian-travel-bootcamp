@@ -1,8 +1,13 @@
 .footer__copyright {
-  display: flex;
-  flex-direction: column;
-  margin: 0;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.14;
+  margin: 0;
 }
+
+@media (max-width: 575px) {
+  .footer__copyright {
+    line-height: 1;
+  }
+}
+
