@@ -18,7 +18,7 @@
   }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 635px) {/*575*/
   .place__text {
     max-width: 288px;
     padding-left: 16px;

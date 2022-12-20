@@ -20,7 +20,7 @@
   }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 635px) {/*575*/
   .place__text {
     max-width: 288px;
     gap: 25px;

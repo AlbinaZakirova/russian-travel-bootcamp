@@ -6,9 +6,12 @@
   color: currentColor;
 }
 
+.header__lang-link:hover {
+  opacity: 80%;
+}
+
 @media (max-width: 320px) {
   .header__lang-link {
-    font-weight: 400;
     font-size: 18px;
     line-height: 1.11;
   }

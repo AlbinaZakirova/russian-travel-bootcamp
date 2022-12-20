@@ -3,6 +3,7 @@
   display: grid;
   gap: 80px;
   padding-bottom: 92px;
+  justify-items: center
 }
 
 @media (max-width: 1024px) {
@@ -20,7 +21,7 @@
   }
 }
 
-@media (max-width: 720px) {
+@media (max-width: 575px) {
   .places {
     justify-content: center;
     gap: 50px;
